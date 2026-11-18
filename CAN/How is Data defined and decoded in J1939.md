@@ -8,8 +8,8 @@
   3. Under that PGN Look for each SPN and do the following with that SPN:
      * As per start bit and length extract the exact bit string.
      * convert that bit string into the number.
-     * apply factor and offset to that number to obtain  our reading.  
-![Flowchart of data decoding algorhithm](Diagrams/Decoding Data in J1939.png)
+     * apply factor and offset to that number to obtain  our reading.    
+![Flowchart of data decoding algorhithm](Diagrams/Decoding-Data-in-J1939.png)
 
 
 # Doubts
