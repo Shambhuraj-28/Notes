@@ -16,7 +16,7 @@ Parameter Group Number indicates the type of message that is being sent for exam
     * PF Determines how PS will be interpreted.
   * PS - PDU Specific (8 bits)
     * If PF < 240 Then PS is destination address. in this case the frame is sent only for the node with specified destination address. this combination is called as PDU1.
-    * else if PF >=240 Then PS is considered extended part of PGN.
+    * else if PF >=240 Then PS is considered extended part of PGN. this case is called as PDU2.
 
 * SA - Source Identifier (8 bits)
     * Source Identifier indicates from which node the frame was sent.
