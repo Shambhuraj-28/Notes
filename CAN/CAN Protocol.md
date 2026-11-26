@@ -5,6 +5,7 @@
   * [CAN Bus Varients](CAN%20Bus%20Varients)
   * [CAN Frame](CAN%20Frame)
   * [CAN Frame Types](CAN%20Frame%20Types)
+  * [Top 4 Benefits of CAN Bus](Top%204%20Benefits%20of%20CAN%20Bus)
 
 * J1939
   * [Introduction to J1939](Introduction%20to%20J1939)
