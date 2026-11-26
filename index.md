@@ -1,2 +1,2 @@
 # Index
-* [CAN](CAN\CAN%20Protocol.md)
+* [CAN](CAN\CAN%20Protocol)
