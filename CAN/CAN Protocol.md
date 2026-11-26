@@ -8,8 +8,8 @@
 
 * J1939
   * [Introduction to J1939](Introduction%20to%20J1939)
-  * [J1939 29 Bit Identifier Structure](J1939%2029%20Bit%20Identifier%20Structure)
-  * [How Data is Defined and Decoded in J1939](How%20is%20Data%20defined%20and%20Decoded%20in%20J1939)
+  * [J1939 29 Bit Identifier structure](J1939%2029%20Bit%20Identifier%20Structure)
+  * [How Data is defined and decoded in J1939](How%20is%20Data%20defined%20and%20Decoded%20in%20J1939)
   * [J1939 Message Types](J1939%20Message%20Types)
 
 * UDS
